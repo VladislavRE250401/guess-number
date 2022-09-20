@@ -1,6 +1,6 @@
 <?php
 
-namespace VladislavRE250401\guess_number\View;
+namespace vladislav_re250401\guess_number\View;
 
 function showGame()
 {
