@@ -51,3 +51,6 @@
 
 * * *
 
+## Ссылки
+
+Packagist: <https://packagist.org/packages/vladislav_re250401/guess-number>
