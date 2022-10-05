@@ -45,7 +45,7 @@
 
 1. Установить composer, если он не установлен;
 2. Перейти в каталог, в который вы будете клонировать проект;
-3. Выполнить команду `composer require rodushkinve/guess_number`;
+3. Выполнить команду `composer create-project vladislav_re250401/guess-number`;
 4. Перейти в каталог vendor/bin;
 5. Запустить файл guess-number.bat.
 
