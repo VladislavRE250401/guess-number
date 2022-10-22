@@ -16,7 +16,9 @@
     "autoload": {
         "files": [
             "src/Controller.php",
-            "src/View.php"
+            "src/View.php",
+            "src/DataBase",
+            "src/GameModel"
         ]
     }
 }
