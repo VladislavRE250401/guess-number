@@ -1,16 +1,16 @@
 <?php
 
-namespace vladislav_re250401\guess-number\GameModel;
+namespace vladislav_re250401\guess_number\GameModel;
 
-use function vladislav_re250401\guess-number\View\saySalute;
-use function vladislav_re250401\guess-number\View\endGame;
-use function vladislav_re250401\guess-number\View\MenuGame;
-use function vladislav_re250401\guess-number\DataBase\insertNewGame;
-use function vladislav_re250401\guess-number\DataBase\addAttemptInDB;
-use function vladislav_re250401\guess-number\DataBase\outputListGame;
-use function vladislav_re250401\guess-number\DataBase\updateInfoGame;
-use function vladislav_re250401\guess-number\DataBase\showTopList;
-use function vladislav_re250401\guess-number\DataBase\checkGameid;
+use function vladislav_re250401\guess_number\View\saySalute;
+use function vladislav_re250401\guess_number\View\endGame;
+use function vladislav_re250401\guess_number\View\MenuGame;
+use function vladislav_re250401\guess_number\DataBase\insertNewGame;
+use function vladislav_re250401\guess_number\DataBase\addAttemptInDB;
+use function vladislav_re250401\guess_number\DataBase\outputListGame;
+use function vladislav_re250401\guess_number\DataBase\updateInfoGame;
+use function vladislav_re250401\guess_number\DataBase\showTopList;
+use function vladislav_re250401\guess_number\DataBase\checkGameid;
 
 function setting()
 {
