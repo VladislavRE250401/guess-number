@@ -1,12 +1,12 @@
 <?php
 
-namespace vladislav_re250401\guess_number\DataBase;
+namespace vladislav_re250401\guess-number\DataBase;
 
 use \RedBeanPHP\R as R;
 
-use function vladislav_re250401\guess_number\View\showGamesInfo;
-use function vladislav_re250401\guess_number\View\showTurnInfo;
-use function vladislav_re250401\guess_number\View\showGamesTop;
+use function vladislav_re250401\guess-number\View\showGamesInfo;
+use function vladislav_re250401\guess-number\View\showTurnInfo;
+use function vladislav_re250401\guess-number\View\showGamesTop;
 
 function createDB()
 {

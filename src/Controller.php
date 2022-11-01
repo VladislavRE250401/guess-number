@@ -1,10 +1,10 @@
 <?php
 
-namespace vladislav_re250401\guess_number\Controller;
+namespace vladislav_re250401\guess-number\Controller;
 
-use function vladislav_re250401\guess_number\GameModel\setting;
-use function vladislav_re250401\guess_number\View\MenuGame;
-use function vladislav_re250401\guess_number\DataBase\openDatabase;
+use function vladislav_re250401\guess-number\GameModel\setting;
+use function vladislav_re250401\guess-number\View\MenuGame;
+use function vladislav_re250401\guess-number\DataBase\openDatabase;
 
 function startGame()
 {
